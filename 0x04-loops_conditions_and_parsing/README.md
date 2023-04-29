@@ -2,7 +2,7 @@ Background Context
 
 
 Resources
-Read or watch:
+Read or watch
 
 Loops sample
 Variable assignment and arithmetic
